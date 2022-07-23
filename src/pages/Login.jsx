@@ -50,7 +50,7 @@ const Login = () => {
               />
 
               <button className="bg-red-600 py-3 my-6 rounded font-bold">
-                Sign Up
+                Sign In
               </button>
 
               <div className="flex justify-between items-center text-sm text-gray-600">
